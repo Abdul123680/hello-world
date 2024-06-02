@@ -1,6 +1,6 @@
 # hello-world
 
-A Hello World webpage created completed using Github Co-Pilot.
+A Hello World webpage created completely using Github Co-Pilot.
 
 This project contains a simple "Hello World" webpage that is served using a Docker container. The webpage is created using HTML and the Docker container uses an Nginx image to serve the webpage.
 
